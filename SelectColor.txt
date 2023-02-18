@@ -1,0 +1,5 @@
+bgColor: #00171f;
+boxColor: #003459;
+fontColorBox: #00A8E8;
+fontColorAnimation: #007EA7;
+fontColorSecond: #FFFFFF;
